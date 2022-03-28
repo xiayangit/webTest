@@ -10,3 +10,4 @@ Vue.use(AmapVue);
 new Vue({
   render: h => h(App),
 }).$mount('#app')
+console.log(123)
